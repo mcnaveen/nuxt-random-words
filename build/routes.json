@@ -1,0 +1,8 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/media/mcnaveen/nv/Development/Scripts/nuxt/random-words/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
